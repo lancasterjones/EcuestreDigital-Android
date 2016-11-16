@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EcuestreDigital</string>
+    <string name="msgContacto">Si tuviste algún <b>problema</b> o viste un error ya sea con la App o con resultados por favor avísanos para corregirlo.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+</resources>

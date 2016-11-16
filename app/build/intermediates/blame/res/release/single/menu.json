@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/build/intermediates/res/merged/release/menu/activity_menu_principal_drawer.xml",
+        "source": "/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/src/main/res/menu/activity_menu_principal_drawer.xml"
+    },
+    {
+        "merged": "/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/build/intermediates/res/merged/release/menu/menu_principal.xml",
+        "source": "/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/src/main/res/menu/menu_principal.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Fri Nov 11 22:55:39 CST 2016
+base.0=/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

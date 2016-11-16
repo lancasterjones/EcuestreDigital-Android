@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "581815221685",
+    "project_id": "ecuestredigital"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581815221685:android:83dc015ec4ce384e",
+        "android_client_info": {
+          "package_name": "io.vende.ecuestredigitalpublicowebview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCqTj5nqka-Ibfm4iPiB0KiWvxnCp7JI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-60977833-5"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

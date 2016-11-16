@@ -1,0 +1,7 @@
+#Sat Nov 12 12:56:47 CST 2016
+base.0=/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_847f00dde39278b21bc94fffdedbbe76372ed473
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_580bc690b0c6216040ef28b482a43b04507b3cc6/classes.dex
+base.1=/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_580bc690b0c6216040ef28b482a43b04507b3cc6
+file.0=/Users/Alex/AndroidStudioProjects/EcuestreDigital/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_847f00dde39278b21bc94fffdedbbe76372ed473/classes.dex
